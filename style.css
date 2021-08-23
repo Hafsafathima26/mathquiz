@@ -1,0 +1,28 @@
+body
+{
+	background:url(background.jpg);
+}
+
+	.login_div1 , .login_div2
+	{
+		background:whitesmoke;
+		padding: 20px;
+		float: none;
+		border-radius: 20px;
+		width: 700px;
+		height:100px;
+		font-family: Tahoma;
+		padding-top: 40px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+h1{
+	font-family: permanant-marker;
+	color: rgb(255, 255, 255);
+}
+
